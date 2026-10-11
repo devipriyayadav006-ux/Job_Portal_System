@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
